@@ -1,4 +1,4 @@
-package com.lesaga.gonzalez.oscar.testcoroutineskotlin.server
+package com.lesaga.gonzalez.oscar.testcoroutineskotlin.server.data
 
 import com.google.gson.annotations.SerializedName
 
