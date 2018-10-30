@@ -1,8 +1,8 @@
-package com.lesaga.gonzalez.oscar.testcoroutineskotlin.server
+package com.lesaga.gonzalez.oscar.testcoroutineskotlin.data.server
 
 import com.google.gson.GsonBuilder
 import com.jakewharton.retrofit2.adapter.kotlin.coroutines.CoroutineCallAdapterFactory
-import com.lesaga.gonzalez.oscar.testcoroutineskotlin.server.ParamServer.Companion.GENERAL_END_POINT
+import com.lesaga.gonzalez.oscar.testcoroutineskotlin.data.server.ParamServer.Companion.GENERAL_END_POINT
 import retrofit2.Converter
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
